@@ -1,3 +1,12 @@
-As of now, I am unable to share the .fla file due to it exceeding the file size
-(roughly 89 MB). For now, you can view the .swf file, and if I'm unable to post
-the original .fla file, I'll just share code snippets from each frame.
+Thank you all for working on this project, and for all those who have helped me!
+
+Credits:
+Main Coder - Jan
+Main Setup - Stewart
+Main Photoshopper - Toby
+
+Main Game Artwork - Adam, Pato, Adara and Toby
+Boss Rush Artwork - Jan, Emily
+
+Joystick AS Code: 
+http://johnstejskal.com/wp/virtual-joystick-for-mobile-games-using-as3/
